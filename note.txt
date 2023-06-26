@@ -1,0 +1,14 @@
+width="400" height="400" border="5px"
+h2{
+    text-align: center;
+    color: rgb(131, 9, 168);
+    list-style: bold;
+    font-size: 36px;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    text-align: center;
+    color: rgb(27, 29, 29);
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
